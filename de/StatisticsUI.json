@@ -1,0 +1,13 @@
+{
+  "Overview": "Übersicht",
+  "Reset": "Zurücksetzen",
+  "ResetAllHint": "Alle Summen der Übersicht und den Kaufverlauf zurücksetzen.",
+  "Enable": "Aktivieren",
+  "ResetCurrencyHint": "Summe und Kaufverlauf dieser Währung zurücksetzen.",
+  "LoggingDisabled": "Die detaillierte Kaufaufzeichnung ist deaktiviert. Ausgaben werden weiterhin in der Übersicht erfasst.",
+  "NoPurchases": "Noch keine detaillierten Käufe erfasst.",
+  "SystemTime": "Systemzeit",
+  "Item": "Gegenstand",
+  "Quantity": "Menge",
+  "Spent": "Ausgegeben"
+}

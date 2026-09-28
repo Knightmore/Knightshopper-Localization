@@ -1,0 +1,5 @@
+{
+  "DefaultList": "List {0}",
+  "WrongCurrency": "This is a {0} list. Import it from the {0} window.",
+  "UnavailableItem": "Item {0} is not available from its shared {1} vendor."
+}

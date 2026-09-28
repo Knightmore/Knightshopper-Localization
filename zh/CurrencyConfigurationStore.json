@@ -1,0 +1,5 @@
+{
+  "DefaultList": "列表 {0}",
+  "WrongCurrency": "这是使用{0}的列表。请从{0}窗口导入。",
+  "UnavailableItem": "物品 {0} 无法从共享列表指定的{1}商人处购买。"
+}

@@ -1,0 +1,14 @@
+{
+  "Language": "言語",
+  "IPC": "IPC",
+  "AllowGeneralIpcs": "他のプラグインによる自分のリストからの購入開始を許可する",
+  "AllowPurchaseListIpc": "他のプラグインによる独自の購入リストの提供と購入開始を許可する",
+  "RecommendedPlugin": "Puni.sh（推奨）",
+  "SuggestedPluginsHint": "これらのプラグインがKnightshopperのIPCを使用しているとは限りません。利用すると便利な可能性があるプラグインの許可リストです。対応を希望する場合は、各開発者にお問い合わせください。",
+  "InternalPluginNameHint": "プラグインの内部名：{0}",
+  "UserAdded": "ユーザーが追加",
+  "PluginNameHint": "プラグインの内部名...",
+  "Add": "追加",
+  "Remove": "削除",
+  "RemoveHint": "右クリックで削除します。"
+}

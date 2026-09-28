@@ -1,0 +1,10 @@
+{
+  "NoList": "剪贴板中没有 Knightshopper 列表。",
+  "TooLarge": "共享列表过大。",
+  "InvalidFormat": "共享列表格式无效。",
+  "UnknownCurrency": "共享列表使用了未知货币。",
+  "InvalidItem": "共享列表包含无效物品。",
+  "DuplicateItem": "共享列表包含无效或重复的物品。",
+  "ImportedList": "已导入的列表",
+  "InvalidList": "剪贴板中没有有效的 Knightshopper 列表。"
+}

@@ -1,0 +1,13 @@
+{
+  "Overview": "Vue d'ensemble",
+  "Reset": "Réinitialiser",
+  "ResetAllHint": "Réinitialiser tous les totaux et l'historique des achats.",
+  "Enable": "Activer",
+  "ResetCurrencyHint": "Réinitialiser le total et l'historique des achats de cette devise.",
+  "LoggingDisabled": "L'enregistrement détaillé des achats est désactivé. Les dépenses restent comptabilisées dans la vue d'ensemble.",
+  "NoPurchases": "Aucun achat détaillé enregistré pour le moment.",
+  "SystemTime": "Heure système",
+  "Item": "Objet",
+  "Quantity": "Quantité",
+  "Spent": "Dépensé"
+}

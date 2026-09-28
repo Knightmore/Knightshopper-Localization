@@ -1,0 +1,14 @@
+{
+  "Language": "语言",
+  "IPC": "IPC",
+  "AllowGeneralIpcs": "允许其他插件从你的列表发起购买",
+  "AllowPurchaseListIpc": "允许其他插件提供自己的购物列表并发起购买",
+  "RecommendedPlugin": "Puni.sh（推荐）",
+  "SuggestedPluginsHint": "这些插件不一定使用 Knightshopper 的 IPC。这只是可能需要该功能的插件允许列表。如果希望它们支持此功能，请联系其开发者！",
+  "InternalPluginNameHint": "插件内部名称：{0}",
+  "UserAdded": "用户添加",
+  "PluginNameHint": "插件内部名称...",
+  "Add": "添加",
+  "Remove": "移除",
+  "RemoveHint": "右键点击移除。"
+}

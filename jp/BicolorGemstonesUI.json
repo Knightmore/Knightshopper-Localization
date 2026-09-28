@@ -1,0 +1,13 @@
+{
+  "RefreshHint": "F.A.T.E.達成度を更新します。サーバーへの連続した問い合わせを防ぐため、更新間隔に制限があります。",
+  "Refreshing": "F.A.T.E.達成度：更新中...",
+  "NotLoaded": "F.A.T.E.達成度：未取得",
+  "Stale": "F.A.T.E.達成度：情報が古くなっています。最終更新 {0:t}",
+  "Updated": "F.A.T.E.達成度：更新日時 {0:t}",
+  "RankLabel": "{0} - ランク{1}",
+  "RankUnlocked": "F.A.T.E.達成度ランク{0}は解放済みです。",
+  "RankLocked": "F.A.T.E.達成度ランク{0}は未解放です。",
+  "CurrentRank": "現在のランク：{0}",
+  "RankRequired": "必要ランク：{0}",
+  "VendorQuest": "販売員のクエスト：{0}"
+}

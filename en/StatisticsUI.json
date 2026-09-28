@@ -1,0 +1,13 @@
+{
+  "Overview": "Overview",
+  "Reset": "Reset",
+  "ResetAllHint": "Reset all overview totals and purchase history.",
+  "Enable": "Enable",
+  "ResetCurrencyHint": "Reset this currency's overview total and purchase history.",
+  "LoggingDisabled": "Detailed purchase logging is disabled. Overview spending is still recorded.",
+  "NoPurchases": "No detailed purchases recorded yet.",
+  "SystemTime": "System time",
+  "Item": "Item",
+  "Quantity": "Quantity",
+  "Spent": "Spent"
+}

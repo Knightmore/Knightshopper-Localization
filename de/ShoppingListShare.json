@@ -1,0 +1,10 @@
+{
+  "NoList": "Die Zwischenablage enthält keine Knightshopper-Liste.",
+  "TooLarge": "Die geteilte Liste ist zu groß.",
+  "InvalidFormat": "Das Format der geteilten Liste ist ungültig.",
+  "UnknownCurrency": "Die geteilte Liste verwendet eine unbekannte Währung.",
+  "InvalidItem": "Die geteilte Liste enthält einen ungültigen Gegenstand.",
+  "DuplicateItem": "Die geteilte Liste enthält einen ungültigen oder doppelten Gegenstand.",
+  "ImportedList": "Importierte Liste",
+  "InvalidList": "Die Zwischenablage enthält keine gültige Knightshopper-Liste."
+}

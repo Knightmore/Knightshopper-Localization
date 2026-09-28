@@ -1,0 +1,13 @@
+{
+  "Overview": "概覽",
+  "Reset": "重置",
+  "ResetAllHint": "重置所有概覽總數和購買記錄。",
+  "Enable": "啟用",
+  "ResetCurrencyHint": "重置此貨幣的概覽總數和購買記錄。",
+  "LoggingDisabled": "詳細購買記錄已停用。支出仍會記錄在概覽中。",
+  "NoPurchases": "尚無詳細購買記錄。",
+  "SystemTime": "系統時間",
+  "Item": "物品",
+  "Quantity": "數量",
+  "Spent": "支出"
+}

@@ -1,0 +1,14 @@
+{
+  "Language": "語言",
+  "IPC": "IPC",
+  "AllowGeneralIpcs": "允許其他外掛從你的列表發起購買",
+  "AllowPurchaseListIpc": "允許其他外掛提供自己的購物列表並發起購買",
+  "RecommendedPlugin": "Puni.sh（推薦）",
+  "SuggestedPluginsHint": "這些外掛不一定使用 Knightshopper 的 IPC。這只是可能需要該功能的外掛允許列表。如果希望它們支援此功能，請聯繫其開發者！",
+  "InternalPluginNameHint": "外掛內部名稱：{0}",
+  "UserAdded": "使用者新增",
+  "PluginNameHint": "外掛內部名稱...",
+  "Add": "新增",
+  "Remove": "移除",
+  "RemoveHint": "按滑鼠右鍵點擊移除。"
+}

@@ -1,0 +1,10 @@
+{
+  "NoList": "클립보드에 Knightshopper 목록이 없습니다.",
+  "TooLarge": "공유 목록이 너무 큽니다.",
+  "InvalidFormat": "공유 목록의 형식이 올바르지 않습니다.",
+  "UnknownCurrency": "공유 목록에 알 수 없는 화폐가 사용되었습니다.",
+  "InvalidItem": "공유 목록에 올바르지 않은 아이템이 있습니다.",
+  "DuplicateItem": "공유 목록에 올바르지 않거나 중복된 아이템이 있습니다.",
+  "ImportedList": "가져온 목록",
+  "InvalidList": "클립보드에 유효한 Knightshopper 목록이 없습니다."
+}

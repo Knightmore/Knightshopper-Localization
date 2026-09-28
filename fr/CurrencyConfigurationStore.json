@@ -1,0 +1,5 @@
+{
+  "DefaultList": "Liste {0}",
+  "WrongCurrency": "Cette liste utilise {0}. Importez-la depuis la fenêtre {0}.",
+  "UnavailableItem": "L'objet {0} n'est pas disponible auprès du marchand de {1} indiqué dans la liste partagée."
+}

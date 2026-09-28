@@ -1,0 +1,14 @@
+{
+  "Language": "Language",
+  "IPC": "IPC",
+  "AllowGeneralIpcs": "Allow other plugins to trigger your list purchases",
+  "AllowPurchaseListIpc": "Allow other plugins to serve and trigger own purchase lists",
+  "RecommendedPlugin": "Puni.sh (recommended)",
+  "SuggestedPluginsHint": "These plugins do not necessarily use Knightshopper's IPC. This is an allow list of plugins that may find it useful. Pester their devs if you want to see it implemented!",
+  "InternalPluginNameHint": "Internal plugin name: {0}",
+  "UserAdded": "User added",
+  "PluginNameHint": "Internal plugin name...",
+  "Add": "Add",
+  "Remove": "Remove",
+  "RemoveHint": "Right click to remove."
+}

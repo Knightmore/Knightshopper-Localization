@@ -1,0 +1,10 @@
+{
+  "NoList": "Le presse-papiers ne contient aucune liste Knightshopper.",
+  "TooLarge": "La liste partagée est trop volumineuse.",
+  "InvalidFormat": "Le format de la liste partagée est invalide.",
+  "UnknownCurrency": "La liste partagée utilise une devise inconnue.",
+  "InvalidItem": "La liste partagée contient un objet invalide.",
+  "DuplicateItem": "La liste partagée contient un objet invalide ou en double.",
+  "ImportedList": "Liste importée",
+  "InvalidList": "Le presse-papiers ne contient aucune liste Knightshopper valide."
+}

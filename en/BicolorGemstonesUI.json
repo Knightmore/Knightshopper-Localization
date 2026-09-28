@@ -1,0 +1,13 @@
+{
+  "RefreshHint": "Refresh Shared FATE ranks. This is throttled to avoid repeated server requests.",
+  "Refreshing": "Shared FATE ranks: refreshing...",
+  "NotLoaded": "Shared FATE ranks: not loaded",
+  "Stale": "Shared FATE ranks: stale, last updated {0:t}",
+  "Updated": "Shared FATE ranks: updated {0:t}",
+  "RankLabel": "{0} - Rank {1}",
+  "RankUnlocked": "Shared FATE rank {0} unlocked.",
+  "RankLocked": "Shared FATE rank {0} not unlocked.",
+  "CurrentRank": "Current rank: {0}",
+  "RankRequired": "Rank: {0} required.",
+  "VendorQuest": "Vendor quest: {0}"
+}

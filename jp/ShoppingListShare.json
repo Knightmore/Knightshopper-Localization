@@ -1,0 +1,10 @@
+{
+  "NoList": "クリップボードにKnightshopperのリストがありません。",
+  "TooLarge": "共有リストが大きすぎます。",
+  "InvalidFormat": "共有リストの形式が無効です。",
+  "UnknownCurrency": "共有リストで不明な通貨が使用されています。",
+  "InvalidItem": "共有リストに無効なアイテムが含まれています。",
+  "DuplicateItem": "共有リストに無効または重複したアイテムが含まれています。",
+  "ImportedList": "インポートしたリスト",
+  "InvalidList": "クリップボードに有効なKnightshopperのリストがありません。"
+}

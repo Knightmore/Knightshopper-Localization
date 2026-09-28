@@ -1,0 +1,14 @@
+{
+  "Language": "Langue",
+  "IPC": "IPC",
+  "AllowGeneralIpcs": "Autoriser d'autres plugins à lancer des achats depuis vos listes",
+  "AllowPurchaseListIpc": "Autoriser d'autres plugins à fournir leurs propres listes d'achats et à lancer leurs achats",
+  "RecommendedPlugin": "Puni.sh (recommandé)",
+  "SuggestedPluginsHint": "Ces plugins n'utilisent pas nécessairement l'IPC de Knightshopper. Cette liste indique seulement les plugins qui pourraient en profiter. Contactez leurs développeurs si vous souhaitez qu'ils l'intègrent !",
+  "InternalPluginNameHint": "Nom interne du plugin : {0}",
+  "UserAdded": "Ajoutés par l'utilisateur",
+  "PluginNameHint": "Nom interne du plugin...",
+  "Add": "Ajouter",
+  "Remove": "Retirer",
+  "RemoveHint": "Clic droit pour retirer."
+}

@@ -1,0 +1,13 @@
+{
+  "Overview": "概要",
+  "Reset": "リセット",
+  "ResetAllHint": "概要の合計と購入履歴をすべてリセットします。",
+  "Enable": "有効化",
+  "ResetCurrencyHint": "この通貨の概要の合計と購入履歴をリセットします。",
+  "LoggingDisabled": "詳細な購入記録は無効です。支出は概要に記録されます。",
+  "NoPurchases": "詳細な購入履歴はまだありません。",
+  "SystemTime": "システム時刻",
+  "Item": "アイテム",
+  "Quantity": "数量",
+  "Spent": "支出"
+}

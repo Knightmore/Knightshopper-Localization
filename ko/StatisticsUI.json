@@ -1,0 +1,13 @@
+{
+  "Overview": "개요",
+  "Reset": "초기화",
+  "ResetAllHint": "모든 개요 합계와 구매 기록을 초기화합니다.",
+  "Enable": "활성화",
+  "ResetCurrencyHint": "이 화폐의 개요 합계와 구매 기록을 초기화합니다.",
+  "LoggingDisabled": "자세한 구매 기록이 비활성화되었습니다. 지출은 개요에 계속 기록됩니다.",
+  "NoPurchases": "아직 자세한 구매 기록이 없습니다.",
+  "SystemTime": "시스템 시간",
+  "Item": "아이템",
+  "Quantity": "수량",
+  "Spent": "지출"
+}

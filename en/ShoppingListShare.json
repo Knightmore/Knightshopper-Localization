@@ -1,0 +1,10 @@
+{
+  "NoList": "The clipboard does not contain a Knightshopper list.",
+  "TooLarge": "The shared list is too large.",
+  "InvalidFormat": "The shared list format is invalid.",
+  "UnknownCurrency": "The shared list uses an unknown currency.",
+  "InvalidItem": "The shared list contains an invalid item.",
+  "DuplicateItem": "The shared list contains an invalid or duplicate item.",
+  "ImportedList": "Imported list",
+  "InvalidList": "The clipboard does not contain a valid Knightshopper list."
+}

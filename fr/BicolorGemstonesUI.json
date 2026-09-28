@@ -1,0 +1,13 @@
+{
+  "RefreshHint": "Actualiser les rangs des ALÉA partagés. Cette action est limitée pour éviter les requêtes répétées au serveur.",
+  "Refreshing": "Rangs des ALÉA partagés : actualisation en cours...",
+  "NotLoaded": "Rangs des ALÉA partagés : non chargés",
+  "Stale": "Rangs des ALÉA partagés : données périmées, dernière mise à jour à {0:t}",
+  "Updated": "Rangs des ALÉA partagés : mis à jour à {0:t}",
+  "RankLabel": "{0} - Rang {1}",
+  "RankUnlocked": "Rang {0} des ALÉA partagés débloqué.",
+  "RankLocked": "Rang {0} des ALÉA partagés non débloqué.",
+  "CurrentRank": "Rang actuel : {0}",
+  "RankRequired": "Rang requis : {0}.",
+  "VendorQuest": "Quête du marchand : {0}"
+}

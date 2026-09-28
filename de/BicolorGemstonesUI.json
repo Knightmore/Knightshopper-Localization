@@ -1,0 +1,13 @@
+{
+  "RefreshHint": "Shared-FATE-Ränge aktualisieren. Wiederholte Serveranfragen werden begrenzt.",
+  "Refreshing": "Shared-FATE-Ränge: werden aktualisiert...",
+  "NotLoaded": "Shared-FATE-Ränge: nicht geladen",
+  "Stale": "Shared-FATE-Ränge: veraltet, zuletzt aktualisiert um {0:t}",
+  "Updated": "Shared-FATE-Ränge: aktualisiert um {0:t}",
+  "RankLabel": "{0} - Rang {1}",
+  "RankUnlocked": "Shared-FATE-Rang {0} freigeschaltet.",
+  "RankLocked": "Shared-FATE-Rang {0} nicht freigeschaltet.",
+  "CurrentRank": "Aktueller Rang: {0}",
+  "RankRequired": "Rang {0} erforderlich.",
+  "VendorQuest": "Händlerauftrag: {0}"
+}
